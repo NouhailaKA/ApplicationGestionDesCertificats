@@ -18,7 +18,7 @@ L'application se compose de deux Espaces:
  <h6>II - Espace de demande / étudiant : </h6>
  
  L’espace de demande est une application réalisée avec Bootstrap et Laravel.
- Pour lancer une demande l'étudiant remplie un formulaire avec son numéro d'étudiant, mail ..... Ensuite les données deront vérifiées à l'aide d'une base de données déjà pré-remplis contenant un ensemble des étudiants.
+ Pour lancer une demande l'étudiant remplie un formulaire avec son numéro d'étudiant, mail ..... Ensuite les données seront vérifiées à l'aide d'une base de données déjà pré-remplis contenant un ensemble des étudiants.
  Si les données sont correctes la demande est envoyée à l'admin sinon un message d'erreur est affiché.
 
  
